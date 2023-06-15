@@ -1,6 +1,15 @@
+geopandas
 matplotlib
 numpy
+openpyxl
 pandas
+PyYAML
+py7zr
+requests
 scikit-learn
 scipy
+s3fs
+topojson
+tqdm
+xlrd
 yellowbrick
