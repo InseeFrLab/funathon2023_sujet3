@@ -1,0 +1,4 @@
+aws.s3
+data.table
+dplyr
+readr
