@@ -13,4 +13,4 @@ Etude des données de consommations et habitudes alimentaires de l'[étude INCA 
 3 parties :
 - Analyse exploratoire des données et visualisations
 - Clustering d'individus : ACP, K-moyennes, Clustering Ascendant Hiérarchique
-- Prédiction de l'IMC : différentes approches de régression
+- Prédiction de l'IMC :  Premiers pas vers les méthodes de ML supervisé en Python
