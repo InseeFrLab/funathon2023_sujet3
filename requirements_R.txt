@@ -2,3 +2,5 @@ aws.s3
 data.table
 dplyr
 readr
+reshape2
+ggcorrplot
