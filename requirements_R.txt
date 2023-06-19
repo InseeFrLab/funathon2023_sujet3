@@ -1,7 +1,11 @@
 aws.s3
+cluster
 data.table
 dplyr
-ggplot2
-readr
+factoextra
 ggcorrplot
+ggplot2
+isotree
+readr
 sf
+tidyverse
