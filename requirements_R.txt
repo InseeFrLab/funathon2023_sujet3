@@ -6,6 +6,8 @@ factoextra
 ggcorrplot
 ggplot2
 isotree
+plotly
 readr
+scatterplot3d
 sf
 tidyverse

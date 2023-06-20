@@ -1,7 +1,7 @@
 # Funathon 2023 - Sujet 3
 
 Langages proposés :
-- Python _(version complète - recommandé)_
+- Python _(version complète)_
 - R _(version réduite)_
 
 Difficulté : débutant
