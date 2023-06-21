@@ -13,3 +13,4 @@ topojson
 tqdm
 xlrd
 yellowbrick
+git+https://github.com/inseefrlab/cartogether
