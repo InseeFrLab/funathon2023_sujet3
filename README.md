@@ -1,8 +1,8 @@
 # Funathon 2023 - Sujet 3
 
 Langages proposés :
-- Python _(version complète)_
-- R _(version réduite)_
+- Python _(version complète)_ : [lancer le tutoriel sur le SSP Cloud](https://datalab.sspcloud.fr/launcher/ide/jupyter-python?autoLaunch=true&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2023_sujet3%2Fmain%2Finit.sh»&init.personalInitArgs=«Python») 
+- R _(version réduite)_ : [lancer le tutoriel sur le SSP Cloud](https://datalab.sspcloud.fr/launcher/ide/jupyter-r?autoLaunch=true&init.personalInit=«https%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2Ffunathon2023_sujet3%2Fmain%2Finit.sh»&init.personalInitArgs=«R») 
 
 Difficulté : débutant
 
