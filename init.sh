@@ -24,5 +24,5 @@ fi
 # Install required packages
 
 # Open the relevant notebook when starting Jupyter Lab
-jupyter server --generate-config
+sudo jupyter server --generate-config
 echo "c.LabApp.default_url = '/lab/tree/funathon-sujet3/Sujet_3_$LANGUAGE.ipynb'" >> /home/onyxia/.jupyter/jupyter_server_config.py
